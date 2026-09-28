@@ -1,3 +1,0 @@
-git rm Slides-FDU-2025.pdf
-git commit -m "Remove Slides-FDU-2025.pdf"
-git push
